@@ -218,7 +218,7 @@ footer a{
 .image1{
     width:160px;
     height:80px;
-    background-image: url('apple_store.png');
+    background-image: url('images/apple_store.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 15px;
@@ -226,7 +226,7 @@ footer a{
 .image2{
     width:180px;
     height:80px;
-    background-image: url('google_play.png');
+    background-image: url('images/google_play.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 15px;
@@ -240,7 +240,7 @@ footer a{
 .original{
     width:80px;
     height: 80px;
-    background-image: url('original.png');
+    background-image: url('images/original.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
