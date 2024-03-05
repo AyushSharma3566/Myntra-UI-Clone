@@ -22,7 +22,7 @@ html{
 .nav-logo{
     width: 55px;
     height: 40px;
-    background-image: url('myntra-logo.png');
+    background-image: url('images/myntra-logo.png');
     background-size: cover;
 }   
 .nav-headings{
